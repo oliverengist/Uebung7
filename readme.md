@@ -1,8 +1,13 @@
-Werkzeuge
+Werkzeuge der Informatik
 =============
+Das ist ein Repository für die Uebung 7.
+
+Bestandteile dieser \"Ubung sind:
 * GitHub
 * Dillinger
-* TigerJython
+* Markdown
+
+Hier ist eine Tabelle:
 
 | Sprache | Entwickler | Jahr |
 |:------|:-----|:------|
