@@ -5,7 +5,7 @@ Das ist ein Repository für die Uebung 7.
 Im cs102 repository habe ich als "fixedgear" commited, im file allerdings oliverengist
 als username angegeben. 
 
-Bestandteile dieser \"Ubung sind:
+Bestandteile dieser \Uuml;bung sind:
 * GitHub
 * Dillinger
 * Markdown
